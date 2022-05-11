@@ -1,3 +1,4 @@
+
 using UnityEngine;
 using Cinemachine;
 using System;
@@ -12,6 +13,7 @@ public class CameraPrototypeController : MonoBehaviour
     {
         CinemachineCore.GetInputAxis = GetAxisCustom;
     }
+    
 
     // Update is called once per frame
     private float GetAxisCustom(string axisName)
@@ -25,4 +27,5 @@ public class CameraPrototypeController : MonoBehaviour
             return 0;
         }
     }
+
 }
