@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Ui Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Ui Text
+  m_TableCollectionNameGuidString: 12f6322f99935c942b2862302bc32e2e
+  m_Entries:
+  - m_Id: 48952242176
+    m_Key: RoomFinder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2478783852544
+    m_Key: Infopoints
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333460544155648
+    m_Key: Parkplatz
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333794003906560
+    m_Key: "B\xFCro"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333901180956672
+    m_Key: Wohnheim
+    m_Metadata:
+      m_Items: []
+  - m_Id: 333981908725760
+    m_Key: Bushaltestelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 334112469020672
+    m_Key: Eingang
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    id: 0
+  references:
+    version: 1
+    00000000:
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1652788461862
