@@ -27,11 +27,95 @@ MonoBehaviour:
     m_Metadata:
       m_Items: []
   - m_Id: 3
-    m_Localized: change
+    m_Localized: 'In the 1970s building you will find the place that every student
+      should have seen from the inside: the library. Above is the most famous lecture
+      hall of the university. As part of the annual education award, it already bore
+      the name of soccer world champion Philipp Lahm and ESC winner Lena Meyer-Landrut.
+      He is currently adorned with the likeness of actor and director Hannes Jaenicke.
+      Lectures and events often take place in the 70s. Examples here are the CampusKino
+      or the CampusColleg series, which is also aimed at the general public.'
     m_Metadata:
       m_Items: []
   - m_Id: 4
-    m_Localized: Neuu
+    m_Localized: "Complementing the 50s building in the south, the 51s is in the
+      north of the university campus. A modern building with a reddish-brown barracks
+      brick look. However, it does not quite frame the campus in the north like its
+      counterpart in the south. Separated by Schreglestra\xDFe, building 54 with
+      the adjacent university car park and student residence is to the north. More
+      than any other building, the 51er can claim to be in the hands of a faculty.
+      You will find many technical facilities, laboratories and workshops in the
+      only building whose basement is used. The comfortably furnished meeting room,
+      which is open to all students, serves as a place to pause. There is also a
+      table football and a table tennis table."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953735951577088
+    m_Localized: "The 1992 building with its futuristic glass fronts and characteristic
+      glass bridge stretches along the east side. This connects it to the 1970s building
+      by the shortest route. Separated only by Sch\xF6neckerstra\xDFe, it separates
+      the university from Ansbach's largest shopping facility, the Br\xFCckenCenter.
+      Here, too, the distances are short. In the largest building on campus you will
+      find a lot of state-of-the-art equipment across all faculties. Biological laboratories,
+      a sound and photo studio, a large MacPool, a 3D laboratory and the media and
+      technology dean's office speak for the glass building with the photovoltaic
+      system on the roof. Connected directly to the north, you will also find the
+      university's energy-friendly combined heat and power plant and its own depot."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953735964160000
+    m_Localized: The 65er is small and inconspicuous next to its big brother, the
+      50er building. And as students, you will probably rarely be in the small brick
+      building. Nevertheless, it is a very important place at the university in terms
+      of administration and control, because the university management and the staff
+      council are based here.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953735964160001
+    m_Localized: The decorative, red brick building with its preserved barracks look
+      closes off the core campus from the south. Located directly on the federal
+      highway 14, Ansbach's main traffic artery, the most striking feature of the
+      U-shaped building is its large clock. However, this can only be seen from the
+      inner campus. The long corridors of the four-storey building are mainly used
+      for the business faculty, on the ground floor there is a professional TV studio.
+      Of course, this is clearly a place for the media students on campus.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953735964160002
+    m_Localized: In the far west you will find the only building of the university
+      in which you will probably not experience a lecture. But as we all know, a
+      healthy mind only flourishes in a healthy body. And it wants to be adequately
+      fed and cared for. Luckily, Ansbach University of Applied Sciences has a canteen
+      that takes care of you from Monday to Friday. At lunch you have the choice
+      between three different main dishes (one of which is always vegetarian), a
+      salad bar and various drinks. As a student, you get the whole thing at a reduced
+      price and a wholesome meal at a fair price. You can enjoy the food at the long
+      tables right next to the food counter, in the extension at the back or, weather
+      permitting, outside on the terrace. The stone loungers in front of the canteen
+      invite you to sunbathe, especially in summer. In the afternoon, however, the
+      canteen does not close at all, there is only no more food distribution. You
+      can meet up with your fellow students and spend time there until 5 p.m. Of
+      course you can also buy something to snack and drink at the canteen counter
+      or the machines in the anteroom. You can top up your CampusCard with cash or
+      an EC card at two machines in the anteroom. You can only pay with your student
+      ID.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953735968354304
+    m_Localized: 'Pretty inconspicuous, the small ''53 building is in the immediate
+      vicinity of the ''70. Even if it is often overlooked, it still has a great
+      use within the university: it is home to the post office and telephone switchboard.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 7953735968354305
+    m_Localized: "Right next to the university car park and opposite the Br\xFCckenCenter
+      is the 54er, the newest building on the Ansbach campus. Architecturally, the
+      open-air courtyard immediately catches the eye after entering the new building.
+      From the outside, the tiled walls hide this quite well. Every Ansbach student
+      should be familiar with the bright cube and its function. After all, most of
+      the administration is hidden on the three floors. Whether it's the CampusCenter,
+      the student service or the International Office - at least one of the institutions
+      will certainly help you at some point. A MacPool and various lecture halls
+      make the building between the parking lots a modern place to study."
     m_Metadata:
       m_Items: []
   references:

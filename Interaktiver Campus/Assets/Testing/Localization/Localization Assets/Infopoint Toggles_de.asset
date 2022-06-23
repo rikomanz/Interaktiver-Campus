@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: Infopoint Toggles_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: aca52eb0dbed87c4e8720ccd7a4e2d9e, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 46053978112
+    m_Localized: Alle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 112785354752
+    m_Localized: Eingang
+    m_Metadata:
+      m_Items: []
+  - m_Id: 171170066432
+    m_Localized: Haltestelle
+    m_Metadata:
+      m_Items: []
+  - m_Id: 243584724992
+    m_Localized: WC
+    m_Metadata:
+      m_Items: []
+  - m_Id: 430550020096
+    m_Localized: Parkplatz
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 1

@@ -31,6 +31,11 @@ MonoBehaviour:
       Data.asset
     m_ReadOnly: 1
     m_SerializedLabels: []
+  - m_GUID: aca52eb0dbed87c4e8720ccd7a4e2d9e
+    m_Address: Assets/Testing/Localization/Localization Assets/Infopoint Toggles
+      Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
   m_ReadOnly: 1
   m_Settings: {fileID: 11400000, guid: 3c350e1c0d104304391bc0fe45ac7568, type: 2}
   m_SchemaSet:

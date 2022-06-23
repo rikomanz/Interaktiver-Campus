@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Room
+  - Infopoint Entrance
+  - Infopoint Bus stop
+  - Infopoint WC
+  - Infopoint Parking
+  - InfoTextBackground
   layers:
   - Default
   - TransparentFX

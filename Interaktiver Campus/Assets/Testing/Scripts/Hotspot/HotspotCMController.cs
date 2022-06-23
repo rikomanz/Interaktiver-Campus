@@ -14,14 +14,18 @@ public class HotspotCMController : MonoBehaviour
     public Animator animator;
 
     public GameObject InfoPanel;
+
+    public GameObject InfoTextBackground;
+
+    
     
     // Start is called before the first frame update
     void Start()
     {
-
+         
     }
 
-
+    // Check if panel needs to be disabled
     void Update()
     {
         if(!InfoPanel.activeSelf)
@@ -38,8 +42,24 @@ public class HotspotCMController : MonoBehaviour
     }
 
 
+    // Enable Background Label
+    public void ShowInfoTextBackground()
+    {
+         
+        if(!InfoTextBackground.activeSelf)
+        {
+            InfoTextBackground.SetActive(true);
+        }
+        else
+        {
+            InfoTextBackground.SetActive(false);
+        }
+    }
+
+    // Set Cinemachine Camera Index
     public void SetCMIndex(int index)
     {
+
 
         var aniIndex = animator.GetInteger("AnimationIndex");
      
@@ -64,9 +84,12 @@ public class HotspotCMController : MonoBehaviour
 
     }
 
-
+    // Activate BLD Info Text & Background
     public void ShowInfoText()
     {
+
+        ShowInfoTextBackground();
+        
         var aniIndex = animator.GetInteger("AnimationIndex");
 
         if(!panels[aniIndex].activeSelf)
@@ -78,4 +101,6 @@ public class HotspotCMController : MonoBehaviour
             panels[aniIndex].SetActive(false);
         }
     }
+
+    
 }
