@@ -46,5 +46,13 @@ MonoBehaviour:
     m_Localized: Entrance
     m_Metadata:
       m_Items: []
+  - m_Id: 16275809094856704
+    m_Localized: 'Room '
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16277415001583616
+    m_Localized: 'Building '
+    m_Metadata:
+      m_Items: []
   references:
     version: 1

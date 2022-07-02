@@ -43,6 +43,14 @@ MonoBehaviour:
     m_Key: Eingang
     m_Metadata:
       m_Items: []
+  - m_Id: 16275809094856704
+    m_Key: Raum
+    m_Metadata:
+      m_Items: []
+  - m_Id: 16277415001583616
+    m_Key: "Geb\xE4ude"
+    m_Metadata:
+      m_Items: []
   m_Metadata:
     m_Items: []
   m_KeyGenerator:

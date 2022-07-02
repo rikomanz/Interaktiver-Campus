@@ -10,6 +10,7 @@ TagManager:
   - Infopoint WC
   - Infopoint Parking
   - InfoTextBackground
+  - Camera
   layers:
   - Default
   - TransparentFX

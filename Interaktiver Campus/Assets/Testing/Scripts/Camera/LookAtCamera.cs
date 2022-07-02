@@ -5,7 +5,7 @@ using UnityEngine;
 public class LookAtCamera : MonoBehaviour
 {
 
-    //public Transform Target;
+    
 
     void Start ()
     {
@@ -17,4 +17,6 @@ public class LookAtCamera : MonoBehaviour
     {
        transform.LookAt(2 * transform.position - Camera.allCameras[0].transform.position);
     }
+
+    
 }
