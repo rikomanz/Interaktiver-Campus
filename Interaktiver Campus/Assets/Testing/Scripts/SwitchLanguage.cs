@@ -14,14 +14,14 @@ public class SwitchLanguage : MonoBehaviour
         Debug.Log (LocalizationSettings.AvailableLocales.Locales[0]);
         Debug.Log (LocalizationSettings.AvailableLocales.Locales[1]);
     }
-    // Start is called before the first frame update
+    
 
 
-    // Update is called once per frame
+    
      public void LoadLocale(string languageIdentifier)
          {
              LocalizationSettings settings = LocalizationSettings.Instance;
-             LocaleIdentifier localeCode = new LocaleIdentifier(languageIdentifier);//can be "en" "de" "ja" etc.
+             LocaleIdentifier localeCode = new LocaleIdentifier(languageIdentifier);
              for(int i = 0; i < LocalizationSettings.AvailableLocales.Locales.Count; i++)
              {
                  Locale aLocale = LocalizationSettings.AvailableLocales.Locales[i];
@@ -33,6 +33,31 @@ public class SwitchLanguage : MonoBehaviour
                  }
              }
 
+             if(languageIdentifier =="en")
+             {
+                GameObject.Find("Button EN").transform.GetChild(0).GetComponent<Image>().color = new Color (55f,55f,55f,255f);
+                
+                Debug.Log(GameObject.Find("Button EN").transform.GetChild(0).GetComponent<Image>().color);
+             }
+             else
+             {
+                GameObject.Find("Button EN").transform.GetChild(0).GetComponent<Image>().color = new Color (55f,55f,55f,0f);
+             }
+
+             if(languageIdentifier =="de")
+             {
+                GameObject.Find("Button DE").transform.GetChild(0).GetComponent<Image>().color = new Color (55f,55f,55f,255f);
+
+                Debug.Log(GameObject.Find("Button DE").transform.GetChild(0).GetComponent<Image>().color);
+             }
+             else
+             {
+                GameObject.Find("Button DE").transform.GetChild(0).GetComponent<Image>().color = new Color (55f,55f,55f,0f);
+             }
+
              
          }
+
+
+       
 }
