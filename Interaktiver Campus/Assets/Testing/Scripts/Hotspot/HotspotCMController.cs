@@ -101,7 +101,7 @@ public class HotspotCMController : MonoBehaviour
         InfoPanel.SetActive(false);
     }
 
-    //ShowInfoText();
+    ShowInfoText();
 
     setBLDName();
     

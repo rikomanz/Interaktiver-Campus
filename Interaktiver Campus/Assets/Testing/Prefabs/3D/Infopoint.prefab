@@ -218,10 +218,10 @@ MonoBehaviour:
   - {fileID: 2100000, guid: f78f6068f5cc3ab48aae3d2aee357655, type: 2}
   - {fileID: 2100000, guid: e8c0547abf7789e46818615d286d36c6, type: 2}
   Colors:
-  - {fileID: 2100000, guid: d8dc93aab47980e4582048b2e997dbb4, type: 2}
-  - {fileID: 2100000, guid: d8dc93aab47980e4582048b2e997dbb4, type: 2}
   - {fileID: 2100000, guid: 2392db17bdf25d440aa87d46d361bd67, type: 2}
-  - {fileID: 2100000, guid: 2392db17bdf25d440aa87d46d361bd67, type: 2}
+  - {fileID: 2100000, guid: 369cf5d2834119e4e9f9879375706168, type: 2}
+  - {fileID: 2100000, guid: b0cb8d731f23b754ea213230e29b26c8, type: 2}
+  - {fileID: 2100000, guid: d8dc93aab47980e4582048b2e997dbb4, type: 2}
 --- !u!95 &3827097660313844119
 Animator:
   serializedVersion: 3
